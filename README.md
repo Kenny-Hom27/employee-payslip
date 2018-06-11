@@ -1,10 +1,10 @@
-# employee-payslip
+# Employee Payslip
 
 Welcome to the employee pay slip!
 
 This app can be used to calculate the income of an Employee!
 
-To start --- ```sh Run npm install``` && ```sh npm run dev``` !
+To start --- Run ```npm install``` && ```npm run dev``` !
 
 ## Instructions
 
